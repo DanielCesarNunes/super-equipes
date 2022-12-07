@@ -7,4 +7,4 @@
 A equipe é a referência em super-heroísmo da editora no momento. O atual QG é na **Montanha dos Vingadores**, dentro de um corpo abandonado de um Celestial. **O grupo enfrenta ameaças de grande escala pelo globo inteiro**.
 
 
-[Página inicial](https://github.com/danielcesar82/super-equipes/blob/main/README.md).
+[Página inicial](README.md).

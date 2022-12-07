@@ -6,4 +6,4 @@
 
 Enquanto a X-Force lida com as ameaças externas de Krakoa, **é a Legion of X que fica responsável pela segurança interna**. Mas, apesar disso, eles não são policiais. O autor da HQ disse que não gosta da **conotação e interpretação de polícia** que o nome carrega.
 
-[Página inicial](https://github.com/danielcesar82/super-equipes/blob/main/README.md).
+[Página inicial](README.md).
