@@ -1,8 +1,6 @@
 # Super Equipes
 
-## Página principal para listar as super-equipes atuais da **Marvel** nos quadrinhos.
-
-# Conheça todas as super-equipes atuais da Marvel nos quadrinhos
+## Conheça todas as super-equipes atuais da Marvel nos quadrinhos
 
 Apesar da Marvel ter alcançado o sucesso absoluto recentemente **com os Vingadores no cinema**, nos quadrinhos a editora possui um leque muito mais amplo de super-equipes.
 
